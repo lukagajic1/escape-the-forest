@@ -3,9 +3,6 @@
 ## YOUR NAME:
 Luka Gajic
 
-## YOUR STUDENT NUMBER:
-A01495410
-
 ## YOUR GITHUB NAME:
 lukagajic1
 
